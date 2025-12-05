@@ -1,0 +1,12 @@
+Predicted Not Hazardous (0)	Predicted Hazardous (1)
+True Not Hazardous (0)	7138	273
+True Hazardous (1)	1244	706
+
+
+                  Object  xgb_predicted_hazardous  
+0       509352 (2007 AG)                        0  
+1           (2014 SC324)                        0  
+2           (2012 UK171)                        0  
+3  4660 Nereus (1982 DB)                        0  
+4            (2015 RW83)                        0  
+
